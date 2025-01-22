@@ -1,4 +1,4 @@
-local ConfigModule = {Config = {Notify = {}, }, }
+local ConfigModule = { Config = { Notify = {} } }
 
 
 
